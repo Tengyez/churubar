@@ -28,9 +28,12 @@ The reason I design this is because the treat always come in a plastic bag or a 
   
 ## Materials
 
-Any color works but I prefer white because the logo and embedment will be seen easier.
+Just use whatever material you want but remember, this model have alot of overhang and required you to insert a piece.
+!!!remember to print the gate and the snap fit first!!!
 ```
-
+main body take 350g 8:45 pause at 5hr
+gate take 25g 37min
+snap fit 1g 5min
 ```
 
 ## PCB Pictures
