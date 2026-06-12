@@ -25,12 +25,13 @@ The reason I design this is because the treat always come in a plastic bag or a 
   
 ## Materials
 
-Just use whatever material you want but remember, this model have alot of overhang and required you to insert a piece.
+Just use whatever material you want but remember, this model have alot of overhang and required you to insert a piece. (I personally use PLA on A1-mini)
 !!!remember to print the gate and the snap fit first!!!
 ```
 main body take 350g 8:45 pause at 5hr
 gate take 25g 37min
 snap fit 1g 5min
+total: ≈9hr 375g
 ```
 
 ## 3D Pictures
