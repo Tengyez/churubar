@@ -4,18 +4,15 @@ A 3d printed dispenser for my cat licking treat in the style of a straw dispense
 
 ## Description
 
-This is a dispenser for my cat favourite treat (ciao churu), I design with the inspiration from a café straw dispenser because of it's simplicity.
+This is a dispenser for my cat favourite treat (Ciao Churu), I design with the inspiration from a café straw dispenser because of it's simplicity.
 The reason I design this is because the treat always come in a plastic bag or a plastic jar that is horrendously hard to open, when I try leaving it out my cat would jump and bite the plastic into shreds and steal them. So I made this dispenser with a drop gate so that my cat couldn't access it (or so I thought) Well the goal was to use this as an oppotunity to learn cad and get more familar with it.
 
 ## Getting Started
 
 ### Assembling
 
-* Press the button once to show the time, hold it 3 seconds to set the time.
-* Set the time by press once to increase by one, hold 3 seconds to move to another digit.
-* To charge simply plug in the usb-c. (around 5 days per charge for a 100mah battery)
-* Green led mean battery ok and red means it's running low.
-* You can learn to read the clock from this great tutorial: https://www.wikihow.com/Read-a-Binary-Clock
+* Print the gate piece first before the main body, because you will need to insert the gate into the main body at the ≈5hr mark printing.
+* 
 
 ### Usage
 
