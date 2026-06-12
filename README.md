@@ -11,7 +11,7 @@ The reason I design this is because the treat always come in a plastic bag or a 
 
 ### Assembling
 
-* Print the gate piece first before the main body, because you will need to insert the gate into the main body at the ≈5hr mark printing.
+* Print the gate piece first before the main body, because you will need to insert the gate into the main body at the ≈5hr mark printing. (I include all setting in the 3mf files, pause, support)
 * After you put the gate into the half-printed dispenser, push your snapfit into the rectangle hole,
 * Press continue printing as normal.
 * Remove supports.
