@@ -33,11 +33,13 @@ gate take 25g 37min
 snap fit 1g 5min
 ```
 
-## PCB Pictures
-<img width="1080" height="507" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (1)" src="https://github.com/user-attachments/assets/0d99cc3a-6f9a-4cf3-a172-4e37ef07583a" />
+## 3D Pictures
+<img width="573" height="180" alt="Screenshot 2026-06-12 235032" src="https://github.com/user-attachments/assets/ae4b9d2e-50d6-49b8-abfc-1d46367e3ec9" />
 
-## Schematic 
-<img width="882" height="624" alt="Screenshot 2026-05-30 175603" src="https://github.com/user-attachments/assets/dedcd873-76aa-435e-88ce-f44eb7891cb1" />
+
+## Rendered
+<img width="639" height="211" alt="Screenshot 2026-06-12 234656" src="https://github.com/user-attachments/assets/5f1804a3-e70a-435a-9cee-c833e62a12d4" />
+
 
 # Zine Poster
 <img width="1410" height="2000" alt="Print it!" src="https://github.com/user-attachments/assets/f5a080b4-79d5-47ee-9611-4d38fa85910c" />
