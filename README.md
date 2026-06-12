@@ -4,7 +4,7 @@ A 3d printed dispenser for my cat licking treat in the style of a straw dispense
 
 ## Description
 
-This is a dispenser for my cat faavourite treat (ciao churu), I design with the inspiration from a café straw dispenser because of it's simplicity.
+This is a dispenser for my cat favourite treat (ciao churu), I design with the inspiration from a café straw dispenser because of it's simplicity.
 The reason I design this is because the treat always come in a plastic bag or a plastic jar that is horrendously hard to open, when I try leaving it out my cat would jump and bite the plastic into shreds and steal them. So I made this dispenser with a drop gate so that my cat couldn't access it (or so I thought) Well the goal was to use this as an oppotunity to learn cad and get more familar with it.
 
 ## Getting Started
