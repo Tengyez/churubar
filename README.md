@@ -12,16 +12,15 @@ The reason I design this is because the treat always come in a plastic bag or a 
 ### Assembling
 
 * Print the gate piece first before the main body, because you will need to insert the gate into the main body at the ≈5hr mark printing.
-* 
+* After you put the gate into the half-printed dispenser, push your snapfit into the rectangle hole,
+* Press continue printing as normal.
+* Remove supports.
 
 ### Usage
 
-* The text on the silk screen corresponse to the schematic so soldering should be easy.
-* Please flash the attiny before you solder it.
-* Solder all the smd first, then add the resistor and capacitor based on the silk screen.
-* Hold down those with tape then solder it. Finally solder the attiny, shift-register and power components.
-* Connect the lipo battery and put it under the pcb.
-* Slide in the wrist strap through the pcb hook.
+* Lift the gate from the handle to get the treat from the flat area infront of the slope.
+* The dispenser can fit around 50 churu bars.
+* Insert the churu bar from the top opening, your cat shouldnt be able to reach it.
   
 ## Materials
 
